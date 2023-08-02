@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo16633
-Fork on GitHub4688
 <h1 align="center">Hi 👋, I'm Amine Malek</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 <img align="right" src="https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e47zasm1a08oocjt2y0rgj9zmh8px3hlfkcl8m2lq1a&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="unknownkratos" width="350" />
