@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amine Malek</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuperKogito&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuperKogito&theme=github) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknownkratos&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknownkratos&theme=github) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuperKogito&theme=default) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superkogito&label=Profile%20views&color=0e75b6&style=flat" alt="superkogito" /> </p>
