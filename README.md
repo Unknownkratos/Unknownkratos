@@ -24,4 +24,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/22089111/unknownkratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Unknownkratos" height="30" width="40" /></a>
+<a href="https://discord.gg/unknownkratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="unknownkratos" height="30" width="40" /></a>
 </p>
