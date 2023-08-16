@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://giphy.com/explore/data-doesnt-lie" alt="GIF" align="right" width="200" />
   <h1>Hi, I'm Amine Malek 👋</h1>
   <h3>A Passionate Computer Science Student</h3>
 </div>
@@ -14,8 +15,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknownkratos&theme=github" alt="Top Languages" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknownkratos&theme=default" alt="Stats" />
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=superkogito&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <h3>Connect with Me:</h3>
 <p align="left">
