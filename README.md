@@ -3,13 +3,14 @@
   <h1>Hi, I'm Amine Malek 👋</h1>
   <h3>A Passionate Computer Science Student</h3>
 </div>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="GIF" align="center" width="200" />
+
 
 <h3>About Me:</h3>
 
 - 🔭 I’m currently working on **Wasalni**
 - 🌱 Exploring **Flutter** and more on my learning journey
 - 📝 Sharing insights through articles on [my blog](https://Unknownkratos.github.io/)
--   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="GIF" align="right" width="200" />
 
 
 <div align="center">
