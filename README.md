@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h3 align="center">A passionate software developer from Munich</h3>
+<h1 align="center">Hi 👋, I'm Amine Malek</h1>
+<h3 align="center">A passionate Computer Science Student</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuperKogito&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuperKogito&theme=github) 
