@@ -1,6 +1,6 @@
 <div align="center">
   <img src="<div align="center">
-  <img src="https://media.giphy.com/media/Q5GtmMzSOEC2U6H0er/giphy.gif" alt="GIF" align="right" width="200" />
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="GIF" align="right" width="200" />
   <h1>Hi, I'm Amine Malek 👋</h1>
   <h3>A Passionate Computer Science Student</h3>
 </div>
