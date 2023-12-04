@@ -5,8 +5,8 @@
 
 <h3>About Me:</h3>
 
-- 🔭 I’m currently working on **Wasalni**
-- 🌱 Exploring **Flutter** and more on my learning journey
+- 🔭 I’m currently working on **UniLife**
+- 🌱 Exploring **Kotlin** and more on my learning journey
 - 📝 Sharing insights through articles on [my blog](https://Unknownkratos.github.io/)
 
 <div align="center">
