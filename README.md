@@ -1,3 +1,7 @@
+<p align="center">
+  **Hi Stranger, I'm Amine Malek 👋 A Lazy Computer Science Student**
+</p>
+### About Me:
 
 
 - 🔭 I’m currently working on **UniLife**
