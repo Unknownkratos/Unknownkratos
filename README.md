@@ -1,7 +1,6 @@
-  <h1>Hi Stranger, I'm Amine Malek 👋</h1>
-  <h3>A Passionate Computer Science Student</h3>
-</div>
-
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi Stranger, I'm Amine Malek👋 A Lazy Computer Science Student">
+</p>
 <h3>About Me:</h3>
 
 - 🔭 I’m currently working on **UniLife**
