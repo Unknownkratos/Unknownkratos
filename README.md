@@ -1,46 +1,41 @@
-<p align="center">
-  <h1><strong>Hi Stranger, I'm Amine Malek 👋</strong></h1>
-  <p><i>A Lazy Computer Science Student</i></p>
-</p>
+# Hi there, I'm Amine Malek  
 
-<h3 align="center">About Me</h3>
-<p align="center">
-  <i>🚀 Passionate about learning and coding, always evolving!</i>
-</p>
+A computer science student focused on building software and learning new technologies.  
 
-<div align="center">
-  <ul>
-    <li>🔭 I’m currently working on <strong>UniLife</strong></li>
-    <li>🌱 Exploring <strong>Kotlin</strong> and other technologies on my learning journey</li>
-    <li>📝 Sharing insights through articles on my <a href="https://Unknownkratos.github.io/" target="_blank">blog</a></li>
-  </ul>
-</div>
+---
 
-<!-- Profile Stats and Language Cards -->
-<div align="center">
-  <h3>My GitHub Stats:</h3>
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknownkratos&theme=github" alt="Profile Details" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknownkratos&theme=github" alt="Top Languages" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknownkratos&theme=default" alt="Stats" />
-  </div>
-</div>
+## Current Projects  
+- **UniLife**: A platform aimed at streamlining student workflows (under development).  
+- **Skills**: Kotlin, React, and backend development.  
+- **Blog**: I document my coding journey here: [https://Unknownkratos.github.io](https://Unknownkratos.github.io)  
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Unknownkratos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+---
 
-<!-- Connect with Me Section -->
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
-  <a href="https://stackoverflow.com/users/22089111/unknownkratos" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/unknownkratos" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/unknownkratos" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## Collaboration & Communication  
+I’m open to:  
+- Contributing to projects  
+- Technical discussions  
+- Networking and feedback  
 
+---
+
+## GitHub Overview  
+![Profile Views](https://komarev.com/ghpvc/?username=Unknownkratos&label=Profile%20views&color=0e75b6&style=flat)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unknownkratos&count_private=true&show_icons=true&theme=github_dark)  
+
+---
+
+## Contact  
+- **Stack Overflow**: [Profile](https://stackoverflow.com/users/22089111/unknownkratos)  
+- **Discord**: [Join me](https://discord.gg/unknownkratos)  
+- **LinkedIn**: [Connect](https://linkedin.com/in/unknownkratos)  
+
+---
+
+### Personal Notes  
+Outside of coding:  
+- I enjoy hiking and planning outdoor trips.  
+- I listen to tech podcasts for inspiration.  
+- I occasionally experiment with baking (and learning from mistakes).  
+
+**Thank you for visiting.**  
