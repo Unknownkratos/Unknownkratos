@@ -6,7 +6,7 @@ A computer science student focused on building software and learning new technol
 
 ## Current Projects  
 - **UniLife**: A platform aimed at streamlining student workflows (under development).  
-- **Skills**: Kotlin, React, and backend development.  
+- **Skills**: Python, React, and backend development.  
 - **Blog**: I document my coding journey here: [https://Unknownkratos.github.io](https://Unknownkratos.github.io)  
 
 ---
@@ -35,7 +35,7 @@ I’m open to:
 ### Personal Notes  
 Outside of coding:  
 - I enjoy hiking and planning outdoor trips.  
-- I listen to tech podcasts for inspiration.  
+- I Love Making Beats.  
 - I occasionally experiment with baking (and learning from mistakes).  
 
 **Thank you for visiting.**  
